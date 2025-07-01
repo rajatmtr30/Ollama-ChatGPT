@@ -49,8 +49,10 @@ npm start
 ### 4. Open your browser
 - Go to [http://localhost:3000](http://localhost:3000)
 - Start chatting!
+![image](https://github.com/user-attachments/assets/c4968547-ed37-4591-b7cb-b8c6b5a2ea73)
 
----
+![image](https://github.com/user-attachments/assets/6643f94f-d2b7-4187-bf42-89bf937a60c1)
+
 
 ## 🛠️ Customization
 - Change avatars in `src/views/ChatView.js`
