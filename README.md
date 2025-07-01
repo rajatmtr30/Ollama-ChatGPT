@@ -2,6 +2,8 @@
 
 A full-stack, real-time AI chat application built by **Rajat Sharma**. This project features a modern React frontend and a Node.js backend that streams responses from a locally running Ollama LLM (e.g., Mistral). The UI is inspired by ChatGPT and is fully responsive, modular, and easy to extend.
 
+![image](https://github.com/user-attachments/assets/c4968547-ed37-4591-b7cb-b8c6b5a2ea73)
+
 ---
 
 ## ✨ Features
@@ -49,7 +51,6 @@ npm start
 ### 4. Open your browser
 - Go to [http://localhost:3000](http://localhost:3000)
 - Start chatting!
-![image](https://github.com/user-attachments/assets/c4968547-ed37-4591-b7cb-b8c6b5a2ea73)
 
 ![image](https://github.com/user-attachments/assets/6643f94f-d2b7-4187-bf42-89bf937a60c1)
 
